@@ -1,10 +1,3 @@
----
-title: "Codebook"
-author: "Kinshuk"
-date: "22/07/2020"
-output: html_document
----
-
 # Getting and Cleaning Data - Course Project
 
 ## Modification
